@@ -1,0 +1,64 @@
+h1 
+{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+h2 
+{
+    text-align: center;    
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: #006EB6;
+    line-height: 1.5;
+}
+
+head 
+{
+    align-items: center;
+    letter-spacing: normal;
+    text-transform: capitalize;
+}
+.does-list {
+    align-items: center;
+}
+.title 
+{
+    align-items: center;
+    letter-spacing: normal;
+    text-transform: capitalize;
+}
+.content
+{
+    border: 1px solid;
+    /* this creates the black border around the content*/
+    display: flex;
+    /*display flex allows the content to me malleable */
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+    padding: 50px;
+    max-width: 600px;
+}
+
+body 
+{
+    align-items: center;
+    margin: 50px;
+    padding: 20px;
+    max-width: 600px;
+}
+p 
+{
+    text-align: center;
+}
+img.logo
+{
+    max-block-size: 150px;
+    line-height: 1.5;
+    border-image-width: 150px;
+    margin: 0 auto;
+}
