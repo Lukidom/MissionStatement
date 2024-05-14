@@ -24,6 +24,13 @@ h2
     color:#006EB6
     
 }
+.logo
+{
+    max-block-size: 150px;
+    line-height: 1.5;
+    border-image-width: 150px;  
+    margin: 0 auto;
+}
 
 head 
 {
@@ -68,6 +75,6 @@ img.logo
 {
     max-block-size: 150px;
     line-height: 1.5;
-    border-image-width: 150px;
+    border-image-width: 150px;  
     margin: 0 auto;
 }
